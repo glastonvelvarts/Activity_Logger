@@ -1,0 +1,7 @@
+Flask==2.3.2
+flask-sqlalchemy==3.0.4
+psycopg2-binary==2.9.6
+sqlalchemy==2.0.9
+datetime
+jsonschema==4.17.3
+python-dotenv==1.0.0
